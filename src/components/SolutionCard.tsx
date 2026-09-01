@@ -35,8 +35,7 @@ export default function SolutionCard({
       >
         <div className="absolute inset-x-0 top-0 h-px scale-x-0 bg-gradient-green transition-transform duration-500 group-hover:scale-x-100" />
         <div>
-          <div className="flex items-center justify-between">
-            <span className="font-heading text-2xl text-metal-500">{numero}</span>
+          <div className="flex items-center justify-end">
             <span className="text-ejmr-green-end">{icon}</span>
           </div>
           <h3 className="mt-6 font-heading text-2xl font-semibold uppercase tracking-tight text-offwhite">

@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer className="border-t border-graphite-700 bg-graphite-950">
       <div className="mx-auto w-full max-w-7xl px-6 md:px-10 py-16">
-        <div className="grid grid-cols-1 gap-12 md:grid-cols-[1.4fr_1fr_1fr]">
+        <div className="grid grid-cols-1 gap-12 md:grid-cols-[1.4fr_1fr_1fr_1fr]">
           <div>
             <Image
               src="/images/logo-ejmr.png"
@@ -55,6 +55,30 @@ export default function Footer() {
                   </Link>
                 </li>
               ))}
+            </ul>
+          </div>
+
+          <div>
+            <h3 className="text-xs font-semibold uppercase tracking-[0.2em] text-metal-500">
+              Contato
+            </h3>
+            <ul className="mt-5 space-y-3">
+              <li>
+                <a
+                  href="tel:+5527996591287"
+                  className="link-underline text-sm text-metal-300 hover:text-offwhite transition-colors"
+                >
+                  (27) 99659-1287
+                </a>
+              </li>
+              <li>
+                <a
+                  href="mailto:comercial@ejmrassociate.com"
+                  className="link-underline text-sm text-metal-300 hover:text-offwhite transition-colors"
+                >
+                  comercial@ejmrassociate.com
+                </a>
+              </li>
             </ul>
           </div>
         </div>
