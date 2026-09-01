@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/images/hero-valvulas.jpg",
+        url: "/images/hero-valvulas.png",
         width: 1600,
         height: 900,
         alt: "Válvulas industriais EJMR Associate",
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     title: "EJMR Associate | Soluções Industriais e Importação de Equipamentos",
     description:
       "Fornecimento de válvulas, atuadores, bombas e equipamentos industriais, aliado à consultoria técnica para importação.",
-    images: ["/images/hero-valvulas.jpg"],
+    images: ["/images/hero-valvulas.png"],
   },
 };
 

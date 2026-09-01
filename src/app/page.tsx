@@ -17,7 +17,7 @@ export default function HomePage() {
   return (
     <>
       <Hero
-        image="/images/hero-valvulas.jpg"
+        image="/images/hero-valvulas.png"
         imageAlt="Conjunto de válvulas industriais EJMR — esfera, gaveta, globo e retenção"
         imagePosition="center 35%"
         eyebrowTags={["Engenharia", "Fornecimento", "Importação", "Suporte Técnico"]}
