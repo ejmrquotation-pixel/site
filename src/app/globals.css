@@ -1,0 +1,132 @@
+@import "tailwindcss";
+
+:root {
+  --color-graphite-950: #0a0c0c;
+  --color-graphite-900: #0d0f0f;
+  --color-graphite-850: #121514;
+  --color-graphite-800: #171b1a;
+  --color-graphite-700: #232827;
+  --color-graphite-600: #363c3b;
+  --color-metal-300: #c7cdcb;
+  --color-metal-400: #9aa3a1;
+  --color-metal-500: #767f7d;
+  --color-offwhite: #f4f2ec;
+  --color-offwhite-dim: #d9d7cf;
+  --color-ejmr-green-start: #0f6b4c;
+  --color-ejmr-green-end: #1fae7a;
+  --color-ejmr-green: #17915f;
+  --background: var(--color-graphite-900);
+  --foreground: var(--color-offwhite);
+}
+
+@theme inline {
+  --color-graphite-950: var(--color-graphite-950);
+  --color-graphite-900: var(--color-graphite-900);
+  --color-graphite-850: var(--color-graphite-850);
+  --color-graphite-800: var(--color-graphite-800);
+  --color-graphite-700: var(--color-graphite-700);
+  --color-graphite-600: var(--color-graphite-600);
+  --color-metal-300: var(--color-metal-300);
+  --color-metal-400: var(--color-metal-400);
+  --color-metal-500: var(--color-metal-500);
+  --color-offwhite: var(--color-offwhite);
+  --color-offwhite-dim: var(--color-offwhite-dim);
+  --color-ejmr-green-start: var(--color-ejmr-green-start);
+  --color-ejmr-green-end: var(--color-ejmr-green-end);
+  --color-ejmr-green: var(--color-ejmr-green);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-heading: var(--font-barlow-condensed);
+  --font-sans: var(--font-inter);
+  --animate-fade-up: fade-up 0.7s ease forwards;
+  --animate-marquee: marquee 40s linear infinite;
+
+  @keyframes fade-up {
+    from {
+      opacity: 0;
+      transform: translateY(24px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+::selection {
+  background: var(--color-ejmr-green);
+  color: var(--color-offwhite);
+}
+
+.font-heading {
+  font-family: var(--font-heading), sans-serif;
+}
+
+.text-gradient-green {
+  background-image: linear-gradient(90deg, var(--color-ejmr-green-start), var(--color-ejmr-green-end));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.bg-gradient-green {
+  background-image: linear-gradient(90deg, var(--color-ejmr-green-start), var(--color-ejmr-green-end));
+}
+
+.link-underline {
+  position: relative;
+  display: inline-block;
+}
+.link-underline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  height: 1px;
+  width: 100%;
+  transform: scaleX(0);
+  transform-origin: left;
+  background-image: linear-gradient(90deg, var(--color-ejmr-green-start), var(--color-ejmr-green-end));
+  transition: transform 0.35s ease;
+}
+.link-underline:hover::after {
+  transform: scaleX(1);
+}
+
+.blueprint-grid {
+  background-image: linear-gradient(rgba(31, 174, 122, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(31, 174, 122, 0.08) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  height: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: var(--color-graphite-600);
+  border-radius: 999px;
+}
+
+@media (max-width: 767px) {
+  .table-scroll {
+    -webkit-overflow-scrolling: touch;
+  }
+}

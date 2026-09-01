@@ -1,0 +1,768 @@
+Atue como um especialista sênior em UX/UI, desenvolvimento frontend e criação de sites institucionais B2B para empresas de engenharia e equipamentos industriais.
+
+Quero que você desenvolva um website moderno, premium, responsivo e visualmente impactante para a empresa EJMR Associate.
+
+IMPORTANTE:
+Os PDFs anexos devem ser utilizados como fonte principal de referência para:
+- identidade visual;
+- logotipo;
+- imagens de válvulas;
+- imagens de atuadores;
+- famílias de produtos;
+- nomenclaturas;
+- características técnicas;
+- estilo industrial da empresa.
+
+Não invente especificações técnicas, certificações, clientes, fabricantes representados, capacidades, normas, experiências, países atendidos ou informações que não estejam nos documentos fornecidos ou neste prompt.
+
+O site deverá ser INTEIRAMENTE EM PORTUGUÊS.
+
+==================================================
+1. POSICIONAMENTO DA EJMR
+==================================================
+
+A EJMR não deve ser apresentada apenas como uma empresa de válvulas.
+
+O posicionamento deve ser:
+
+“Empresa especializada em soluções industriais, fornecimento de equipamentos e consultoria técnica para aquisição e importação de equipamentos industriais.”
+
+A empresa trabalha com:
+
+- válvulas industriais;
+- atuadores elétricos;
+- bombas industriais;
+- equipamentos industriais sob consulta;
+- consultoria técnica para importação;
+- análise de especificações;
+- pesquisa e desenvolvimento de fornecedores;
+- equalização técnica;
+- análise de propostas técnicas;
+- análise documental;
+- acompanhamento de fornecimento.
+
+A EJMR deve transmitir a imagem de uma empresa que consegue apoiar o cliente desde a identificação da necessidade até o fornecimento do equipamento.
+
+Não posicionar a EJMR como uma simples revendedora ou importadora.
+
+A mensagem deve transmitir:
+
+ENGENHARIA + FORNECIMENTO + IMPORTAÇÃO + SUPORTE TÉCNICO
+
+==================================================
+2. DIREÇÃO VISUAL
+==================================================
+
+Quero um design industrial premium.
+
+Referências conceituais:
+
+- engenharia;
+- indústria pesada;
+- Oil & Gas;
+- automação;
+- metal;
+- tecnologia;
+- precisão;
+- confiabilidade;
+- grandes fabricantes internacionais.
+
+Paleta:
+
+- preto/grafite profundo;
+- branco/off-white;
+- cinza metálico;
+- verde institucional da EJMR;
+- verde usado principalmente como destaque.
+
+Evitar um site excessivamente verde.
+
+Utilizar:
+
+- grandes imagens de produtos;
+- layouts editoriais;
+- grid moderno;
+- muito espaço negativo;
+- bordas finas;
+- tipografia forte e elegante;
+- cards minimalistas;
+- elementos técnicos;
+- ícones lineares;
+- microanimações discretas.
+
+O site NÃO deve parecer:
+
+- template genérico;
+- catálogo PDF convertido para HTML;
+- site de loja virtual;
+- site extremamente colorido;
+- dashboard;
+- landing page genérica de startup.
+
+A sensação deve ser:
+
+“empresa industrial internacional, tecnicamente preparada e confiável”.
+
+==================================================
+3. USO DAS IMAGENS DOS PDFs
+==================================================
+
+Analise visualmente os PDFs anexados.
+
+Identifique imagens adequadas para:
+
+- Hero;
+- válvulas de esfera;
+- válvulas gaveta;
+- válvulas globo;
+- válvulas de retenção;
+- válvulas borboleta;
+- válvulas forjadas;
+- válvulas de bronze;
+- válvulas de controle;
+- válvulas API 6A;
+- acessórios;
+- atuadores EMT;
+- atuadores EMD.
+
+Sempre que tecnicamente possível, reutilize ou extraia as imagens dos PDFs fornecidos.
+
+As imagens dos equipamentos devem ter protagonismo no site.
+
+Não substituir automaticamente essas imagens por imagens genéricas da internet.
+
+Se não for possível extrair determinado ativo diretamente, deixe a estrutura preparada para que a imagem seja adicionada posteriormente e informe claramente qual imagem do PDF deve ser utilizada naquele local.
+
+==================================================
+4. HEADER
+==================================================
+
+Criar header premium.
+
+Na primeira tela:
+- transparente;
+- sobreposto ao Hero.
+
+Após scroll:
+- fundo grafite;
+- blur muito discreto;
+- redução sutil da altura.
+
+Menu:
+
+Início
+Empresa
+Soluções
+Produtos
+Importação
+Biblioteca Técnica
+Contato
+
+CTA destacado:
+
+SOLICITAR COTAÇÃO
+
+Mobile:
+menu hamburger com drawer lateral elegante.
+
+==================================================
+5. HERO
+==================================================
+
+Hero ocupando praticamente 100vh no desktop.
+
+Utilizar uma das melhores imagens industriais dos PDFs.
+
+Aplicar tratamento visual escuro para garantir legibilidade.
+
+Sugestão de headline:
+
+SOLUÇÕES INDUSTRIAIS SEM FRONTEIRAS
+
+Subheadline:
+
+Fornecimento de válvulas, atuadores, bombas e equipamentos industriais, aliado à consultoria técnica para aquisição e importação no mercado internacional.
+
+CTAs:
+
+CONHEÇA NOSSAS SOLUÇÕES
+
+SOLICITE UMA COTAÇÃO
+
+Adicionar discretamente:
+
+ENGENHARIA
+FORNECIMENTO
+IMPORTAÇÃO
+SUPORTE TÉCNICO
+
+Criar entrada suave dos elementos.
+
+==================================================
+6. ÁREAS DE ATUAÇÃO
+==================================================
+
+Criar seção:
+
+SOLUÇÕES PARA A INDÚSTRIA
+
+Apresentar 4 cards principais:
+
+01
+Fornecimento de Equipamentos
+
+02
+Válvulas e Atuadores
+
+03
+Bombas e Equipamentos Industriais
+
+04
+Consultoria para Importação
+
+Cards grandes e sofisticados.
+
+Cada um deve conter:
+- título;
+- descrição curta;
+- ícone;
+- CTA;
+- hover discreto.
+
+==================================================
+7. PORTFÓLIO
+==================================================
+
+Criar seção:
+
+PORTFÓLIO DE EQUIPAMENTOS
+
+Usar os PDFs como base.
+
+Principais categorias:
+
+- Válvulas de Esfera
+- Válvulas Gaveta
+- Válvulas Globo
+- Válvulas de Retenção
+- Válvulas Borboleta
+- Válvulas Forjadas
+- Válvulas de Bronze
+- Válvulas de Controle
+- Válvulas API 6A
+- Acessórios para Válvulas
+- Atuadores Elétricos
+- Bombas Industriais
+- Equipamentos Sob Consulta
+
+Usar imagens reais presentes nos PDFs para válvulas e atuadores.
+
+Cada card:
+
+imagem
+categoria
+descrição curta
+VER PRODUTOS
+
+Criar hover sofisticado:
+- pequeno zoom;
+- deslocamento do CTA;
+- iluminação discreta da borda.
+
+==================================================
+8. VÁLVULAS
+==================================================
+
+Criar página específica de válvulas.
+
+Organizar todas as famílias identificadas no PDF.
+
+Permitir futuramente filtrar por:
+
+- tipo;
+- diâmetro;
+- classe de pressão;
+- material;
+- conexão;
+- aplicação.
+
+Não preencher características que não possam ser confirmadas nos documentos.
+
+Cada produto ou família poderá possuir:
+
+- fotografia;
+- nome;
+- descrição;
+- características disponíveis;
+- tabela técnica;
+- normas, quando informadas;
+- materiais, quando informados;
+- botão Solicitar Cotação.
+
+==================================================
+9. ATUADORES ELÉTRICOS
+==================================================
+
+Criar seção/página dedicada para:
+
+EMT / EMD SERIES
+
+Utilizar as imagens do catálogo.
+
+Título sugerido:
+
+AUTOMAÇÃO E CONTROLE COM PRECISÃO
+
+Apresentar as famílias:
+
+EMT
+EMD
+
+E as configurações disponíveis apresentadas no catálogo:
+
+- Basic;
+- Integration;
+- Intelligent.
+
+Criar cards para recursos presentes no material, incluindo quando aplicável:
+
+- proteção do motor;
+- proteção contra umidade;
+- operação manual;
+- controle remoto por infravermelho;
+- encoder absoluto;
+- engrenagem de alta resistência;
+- configuração não intrusiva;
+- processador;
+- proteção IP;
+- controle local/remoto.
+
+Criar uma seção visual para comunicação industrial.
+
+Apresentar apenas protocolos identificados no catálogo, como:
+
+Modbus
+Profibus
+HART
+
+Criar um pequeno diagrama:
+
+PLC / DCS
+↓
+Rede Industrial
+↓
+Atuadores
+
+Estética semelhante a diagrama de automação industrial.
+
+==================================================
+10. BOMBAS E OUTROS EQUIPAMENTOS
+==================================================
+
+Criar página:
+
+BOMBAS E EQUIPAMENTOS INDUSTRIAIS
+
+Não inventar modelos ou fabricantes.
+
+O objetivo desta página é informar que a EJMR também atua na prospecção, especificação e fornecimento de equipamentos industriais conforme demanda.
+
+Texto conceitual:
+
+“A EJMR auxilia empresas na identificação e fornecimento de equipamentos industriais de acordo com os requisitos técnicos de cada projeto.”
+
+Exemplos de categoria poderão incluir:
+
+Bombas Industriais
+Equipamentos Mecânicos
+Equipamentos para Processos
+Equipamentos Sob Especificação
+
+Não transformar essas categorias em afirmações de representação oficial.
+
+CTA:
+
+ENVIE SUA ESPECIFICAÇÃO
+
+==================================================
+11. CONSULTORIA PARA IMPORTAÇÃO
+==================================================
+
+Esta é uma das principais áreas do site.
+
+Criar uma seção visual premium:
+
+CONSULTORIA TÉCNICA PARA IMPORTAÇÃO DE EQUIPAMENTOS
+
+Texto:
+
+A EJMR apoia empresas na identificação, análise e aquisição de equipamentos industriais no mercado internacional, oferecendo suporte técnico durante as etapas de especificação, avaliação e fornecimento.
+
+Criar cards:
+
+ANÁLISE DE ESPECIFICAÇÕES
+Avaliação dos requisitos técnicos necessários ao equipamento.
+
+BUSCA DE FORNECEDORES
+Pesquisa e desenvolvimento de fornecedores compatíveis com a necessidade do projeto.
+
+EQUALIZAÇÃO TÉCNICA
+Comparação entre requisitos do cliente e propostas recebidas.
+
+ANÁLISE DE PROPOSTAS
+Avaliação técnica das alternativas apresentadas pelos fornecedores.
+
+DOCUMENTAÇÃO TÉCNICA
+Análise de datasheets, desenhos, certificados e documentação do fornecimento.
+
+ACOMPANHAMENTO
+Suporte durante as diferentes etapas do processo de fornecimento.
+
+==================================================
+12. FLUXO DO PROCESSO
+==================================================
+
+Criar seção:
+
+DA NECESSIDADE AO FORNECIMENTO
+
+Timeline:
+
+01
+Entendimento da Demanda
+
+02
+Análise da Especificação
+
+03
+Pesquisa de Fornecedores
+
+04
+Equalização Técnica
+
+05
+Negociação e Fornecimento
+
+06
+Documentação e Acompanhamento
+
+Desktop:
+timeline horizontal.
+
+Mobile:
+timeline vertical.
+
+==================================================
+13. ENGENHARIA
+==================================================
+
+Criar seção visual de alto impacto:
+
+ENGENHARIA POR TRÁS DE CADA SOLUÇÃO
+
+Usar uma imagem grande de válvula ou atuador.
+
+Adicionar linhas técnicas finas apontando para componentes.
+
+Estética inspirada em:
+
+- desenho técnico;
+- CAD;
+- blueprint;
+- datasheet.
+
+Usar muito discretamente.
+
+Não transformar a seção em um desenho futurista.
+
+==================================================
+14. BIBLIOTECA TÉCNICA
+==================================================
+
+Criar página:
+
+BIBLIOTECA TÉCNICA
+
+Disponibilizar estrutura para:
+
+- Catálogo de Válvulas;
+- Catálogo de Atuadores;
+- Datasheets;
+- Documentação Técnica;
+- Manuais;
+- Certificados.
+
+Adicionar busca.
+
+Cards devem mostrar:
+
+nome do documento
+categoria
+tipo de arquivo
+botão baixar
+
+Os dois PDFs fornecidos poderão inicialmente aparecer nessa biblioteca.
+
+==================================================
+15. COTAÇÃO
+==================================================
+
+Criar formulário de RFQ profissional.
+
+Título:
+
+SOLICITE UMA COTAÇÃO
+
+Campos:
+
+Nome
+Empresa
+E-mail
+Telefone / WhatsApp
+Cidade / Estado
+Equipamento
+Quantidade
+Descrição Técnica
+Prazo Desejado
+Mensagem
+
+Upload:
+
+PDF
+XLSX
+DOCX
+JPG
+PNG
+
+Campo importante:
+
+ANEXAR ESPECIFICAÇÃO TÉCNICA
+
+CTA:
+
+ENVIAR SOLICITAÇÃO
+
+Criar estados:
+
+- envio;
+- sucesso;
+- erro;
+- arquivo anexado.
+
+==================================================
+16. CTA FINAL
+==================================================
+
+Criar seção impactante antes do footer.
+
+Título:
+
+PRECISA DE UM EQUIPAMENTO INDUSTRIAL?
+
+Texto:
+
+Envie sua especificação técnica e nossa equipe poderá analisar a demanda e buscar a solução mais adequada ao seu projeto.
+
+Botões:
+
+SOLICITAR COTAÇÃO
+
+FALAR COM A EJMR
+
+==================================================
+17. FOOTER
+==================================================
+
+Footer grafite/preto.
+
+Incluir:
+
+logo EJMR
+descrição curta
+
+Menu
+
+Soluções
+Produtos
+Importação
+Biblioteca
+Contato
+
+Produtos
+
+Válvulas
+Atuadores
+Bombas
+Outros Equipamentos
+
+Informações institucionais e contatos devem ser inseridos apenas se fornecidos.
+
+Não inventar telefone, endereço, CNPJ ou e-mail.
+
+==================================================
+18. RESPONSIVIDADE
+==================================================
+
+Projetar especificamente para:
+
+desktop
+tablet
+smartphone
+
+Não apenas reduzir o desktop.
+
+Mobile:
+
+- Hero otimizado;
+- títulos menores;
+- menu drawer;
+- cards em coluna ou carrossel;
+- filtros em bottom sheet;
+- tabelas com scroll horizontal;
+- CTA facilmente acessível;
+- imagens recortadas adequadamente;
+- espaçamentos próprios;
+- formulário confortável para toque.
+
+==================================================
+19. EXPERIÊNCIA VISUAL
+==================================================
+
+Adicionar microinterações:
+
+- fade-in;
+- slide suave;
+- pequenos movimentos no scroll;
+- hover;
+- underline animado;
+- zoom muito discreto nas imagens;
+- transições suaves.
+
+Evitar animações exageradas.
+
+Não utilizar elementos que prejudiquem performance.
+
+==================================================
+20. TECNOLOGIA
+==================================================
+
+Utilize preferencialmente:
+
+Next.js
+TypeScript
+Tailwind CSS
+Framer Motion
+Lucide Icons
+
+Estrutura:
+
+componentes reutilizáveis;
+arquitetura organizada;
+conteúdo separado da apresentação;
+estrutura preparada para futura integração com CMS ou banco de dados.
+
+Utilizar boas práticas para:
+
+SEO
+Open Graph
+responsividade
+acessibilidade
+performance
+lazy loading
+otimização de imagens
+Core Web Vitals
+
+==================================================
+21. COMPONENTES REUTILIZÁVEIS
+==================================================
+
+Criar componentes como:
+
+Header
+MobileMenu
+Hero
+SectionTitle
+ProductCard
+SolutionCard
+ServiceCard
+FeatureCard
+TechnicalTable
+ProductFilter
+DocumentCard
+RFQForm
+CTASection
+Footer
+
+Evitar código repetitivo.
+
+==================================================
+22. REGRA DE CONTEÚDO
+==================================================
+
+Antes de colocar qualquer informação técnica no site:
+
+1. verificar se ela consta nos PDFs;
+2. utilizar exatamente a informação suportada pela fonte;
+3. não completar informações ausentes por suposição;
+4. não inventar certificações;
+5. não inventar clientes;
+6. não inventar fabricantes representados;
+7. não afirmar exclusividade;
+8. não afirmar experiência em projetos específicos sem comprovação.
+
+Quando não houver informação:
+omitir o dado.
+
+==================================================
+23. RESULTADO ESPERADO
+==================================================
+
+O site precisa transmitir nos primeiros segundos:
+
+“Essa empresa entende de equipamentos industriais e consegue me ajudar a encontrar, analisar e fornecer uma solução técnica.”
+
+A interface deve ser:
+
+moderna;
+industrial;
+premium;
+minimalista;
+tecnicamente sofisticada;
+responsiva;
+comercialmente orientada para geração de leads e RFQs.
+
+Use os PDFs anexos principalmente para trazer autenticidade visual ao site.
+
+Não simplesmente copie o layout gráfico dos catálogos.
+
+Transforme o material existente em uma identidade digital muito mais moderna.
+
+==================================================
+24. EXECUÇÃO
+==================================================
+
+Antes de começar a programar:
+
+1. analise completamente os PDFs;
+2. identifique todas as famílias de produtos;
+3. identifique as melhores imagens;
+4. identifique o logotipo;
+5. identifique informações técnicas utilizáveis;
+6. organize os ativos visuais;
+7. defina a arquitetura do site.
+
+Depois:
+
+1. crie a estrutura de páginas;
+2. crie os componentes;
+3. implemente o design system;
+4. desenvolva a Home;
+5. desenvolva as páginas internas;
+6. implemente responsividade;
+7. revise o mobile;
+8. revise consistência visual;
+9. valide que nenhuma informação foi inventada.
+
+Não entregue apenas um mockup.
+
+Implemente o website funcional.
